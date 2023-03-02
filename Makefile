@@ -13,4 +13,5 @@ migratedown:
 sqlc:
 	sqlc generate 
 
+
 .PHONY: createdb dropdb migrateup migratedown sqlc
